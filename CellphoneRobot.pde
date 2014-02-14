@@ -36,7 +36,7 @@ void loop()
 			m=k;
 			break;
 		}
-		case 0x18: {
+		case 0x08: {
 			backward();
 			m=k;
 			break;
